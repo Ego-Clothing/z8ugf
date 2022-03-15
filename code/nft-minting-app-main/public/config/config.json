@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x14a3556a1b62127b3740fa2f36fbaef98f1aaa89",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x14a3556a1b62127b3740fa2f36fbaef98f1aaa89",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Dusty Dinos",
+  "SYMBOL": "DDNFT",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/dusty-dinos",
+  "SHOW_BACKGROUND": true
+}
